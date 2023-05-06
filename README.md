@@ -1,9 +1,13 @@
 # reproducible_research_project2
 ---
 title: "Reproducible Research Project 2"
+
 author: "Bill Lisse"
+
 date: "May 6, 2023"
+
 output: html_document
+
 ---
 
 ## Introduction
